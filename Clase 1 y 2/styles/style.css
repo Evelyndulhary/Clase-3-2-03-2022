@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+    font-size: 32px;
+    margin-top: 5%;
+}
+
+button{
+    padding: 10px;
+    color: white;
+    background-color: rgb(255, 0, 157);
+    font-size: 20px;
+}
